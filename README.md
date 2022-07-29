@@ -2,9 +2,9 @@
 
 Welcom to My Repo!
 
-- 🔭 I’m currently working on my Destiny passion project.
-- 🌱 I’m currently learning applied computer science at Make School
-- 📫 How to reach me: shaunnorton87@gmail.com
+- 🔭 I’m currently working on various passion project.
+- 🌱 I’m currently independently learning computer science
+- 📫 How to reach me: shaun@snorton.dev
 - 😄 Pronouns: He/Him
 
 
